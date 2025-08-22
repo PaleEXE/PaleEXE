@@ -42,9 +42,10 @@
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paleexe&show_icons=true&locale=en&layout=compact" alt="paleexe" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paleexe&show_icons=true&locale=en" alt="paleexe" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paleexe&" alt="paleexe" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paleexe&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" style="margin-right:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=paleexe&show_icons=true&locale=en" alt="GitHub Stats" width="300" style="margin-right:10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paleexe&" alt="Streak Stats" width="300"/>
+</p>
 
 </div>
