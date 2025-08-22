@@ -1,9 +1,3 @@
-<style>
-* {
-  font-family: "JetBrains Mono", monospace;
-}
-</style>
-
 # PaleEXE
 
 ## Mohammad Alhennawi, Dec 7th 2004
