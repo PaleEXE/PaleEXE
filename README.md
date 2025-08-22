@@ -1,10 +1,12 @@
-<div style="font-family:'JetBrains Mono', monospace;">
+<div style="font-family:'JetBrains Mono', monospace; padding:20px; border-radius:10px;">
 
 # PaleEXE
 
 ## Mohammad Alhennawi, Dec 7th 2004
 
 ~ A guy who likes programming ✨
+
+<hr style="border:1px; margin:20px 0;">
 
 <details style="padding:10px; border-radius:5px; margin-bottom:10px;">
   <summary>About Me</summary>
@@ -13,15 +15,21 @@
   </p>
 </details>
 
+<hr style="margin:20px 0;">
+
 <img src="https://static.wikia.nocookie.net/hollowknight/images/e/ea/Screenshot_HK_Knight_10.png/revision/latest?cb=20210324164358" style="display:block; margin:10px auto; border-radius:10px; border:2px solid #30363d;">
-<p style="text-align:center; color:#8b949e;">(just chillin)</p>
+<p style="text-align:center;">(just chillin)</p>
+
+<hr style="margin:20px 0;">
 
 <h3>Connect with me:</h3>
 <p>
-<a href="https://linkedin.com/in/mohammad-al-hennawi-9856592b9/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="40" style="margin-right:5px;"/></a>
-<a href="https://instagram.com/pale_exe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="40" style="margin-right:5px;"/></a>
-<a href="https://discord.gg/pale_exe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="30" height="40"/></a>
+  <a href="https://linkedin.com/in/mohammad-al-hennawi-9856592b9/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="40" style="margin-right:5px;"/></a>
+  <a href="https://instagram.com/pale_exe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="40" style="margin-right:5px;"/></a>
+  <a href="https://discord.gg/pale_exe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="30" height="40"/></a>
 </p>
+
+<hr style="margin:20px 0;">
 
 <h3>Languages and Tools:</h3>
 <div style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:20px;">
@@ -42,9 +50,14 @@
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </div>
+
+<hr style="margin:20px 0;">
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paleexe&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" style="margin-right:10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=paleexe&show_icons=true&locale=en" alt="GitHub Stats" width="300" style="margin-right:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paleexe&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" style="margin-bottom:10px;"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=paleexe&show_icons=true&locale=en" alt="GitHub Stats" width="300" style="margin-bottom:10px;"/>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paleexe&" alt="Streak Stats" width="300"/>
 </p>
 
