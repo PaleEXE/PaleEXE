@@ -54,11 +54,11 @@
 <hr style="margin:20px 0;">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paleexe&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-bottom:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paleexe&theme=great-gatsby&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-bottom:10px;"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=paleexe&show_icons=true&locale=en" alt="GitHub Stats" style="margin-bottom:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=paleexe&theme=great-gatsby&show_icons=true&locale=en" alt="GitHub Stats" style="margin-bottom:10px;"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paleexe&" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paleexe&theme=great-gatsby&" alt="Streak Stats"/>
 </p>
 
 </div>
