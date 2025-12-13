@@ -54,11 +54,10 @@
 <hr style="margin:20px 0;">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paleexe&theme=maroongold&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-bottom:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paleexe&theme=maroongold&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="Top Languages" style="margin-bottom:10px;"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=paleexe&theme=maroongold&show_icons=true&locale=en" alt="GitHub Stats" style="margin-bottom:10px;"/>
   <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PaleEXE&theme=maroongold&border_radius=5" alt="GitHub Streak" /></a>
 </p>
-
 </div>
