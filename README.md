@@ -58,6 +58,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=paleexe&theme=maroongold&show_icons=true&locale=en" alt="GitHub Stats" style="margin-bottom:10px;"/>
   <br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PaleEXE&theme=maroongold&border_radius=5" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PaleEXE&theme=maroongold" alt="GitHub Streak" /></a>
 </p>
 </div>
