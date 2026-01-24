@@ -50,13 +50,13 @@
 <br/>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pale_exe&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PaleEXE&theme=tokyonight&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pale_exe&theme=tokyonight&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PaleEXE&theme=tokyonight&show_icons=true&locale=en" alt="GitHub Stats" />
   <br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=pale_exe&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=PaleEXE&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
 
